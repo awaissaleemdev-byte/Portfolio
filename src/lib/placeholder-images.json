@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "User profile avatar",
+      "imageUrl": "https://picsum.photos/seed/avatar1/200/200",
+      "imageHint": "profile picture"
+    },
+    {
+      "id": "101",
+      "description": "AI-Powered Content Platform project image",
+      "imageUrl": "https://picsum.photos/seed/project101/600/400",
+      "imageHint": "abstract technology"
+    },
+    {
+      "id": "102",
+      "description": "E-Commerce Analytics Dashboard project image",
+      "imageUrl": "https://picsum.photos/seed/project102/600/400",
+      "imageHint": "data charts"
+    },
+    {
+      "id": "103",
+      "description": "Cloud Storage Solution project image",
+      "imageUrl": "https://picsum.photos/seed/project103/600/400",
+      "imageHint": "cloud computing"
+    }
+  ]
 }
